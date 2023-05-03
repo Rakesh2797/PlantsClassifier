@@ -1,5 +1,5 @@
 ## Plant Classifier
-Plant Classifier is an iOS app that uses machine learning to classify a plant's species from an image of its leaves. The app uses a pre-trained Core ML model to predict the plant's species, and then fetches information about the plant from Wikipedia's API.
+The Plant Classifier app for iOS employs machine learning to identify the species of a plant based on an image of its leaves. This is achieved through a pre-trained Core ML model, which has been trained using MobileNet V2 and converted from TensorFlow to Core ML format. The model is used to make predictions about the plant's species, and the app then retrieves relevant information about the identified plant species from Wikipedia's API.
 
 ## Usage
 1. The app has a camera button that allows the user to take a new photo or choose one from the photo library.
