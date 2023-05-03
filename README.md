@@ -13,3 +13,5 @@ Plant Classifier is an iOS app that uses machine learning to classify a plant's 
 * Vision
 * Alamofire
 * SwiftyJSON
+
+![PlantClassifierGif](https://user-images.githubusercontent.com/47936815/235880579-c7a70a23-52f3-4c28-8331-1f93d4c4b522.gif)
